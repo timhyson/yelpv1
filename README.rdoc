@@ -1,5 +1,7 @@
 == README
 
+Monday's work with Chris - working on v1 of Yelp with views written in erb 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
